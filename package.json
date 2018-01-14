@@ -1,0 +1,25 @@
+{
+  "name": "conleystock",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabrazell/conleyStock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabrazell/conleyStock/issues"
+  },
+  "homepage": "https://github.com/kabrazell/conleyStock#readme",
+  "dependencies": {
+    "alphavantage-api": "^1.0.1",
+    "csv": "^2.0.0",
+    "debug": "^3.1.0",
+    "dotenv": "^4.0.0"
+  }
+}
